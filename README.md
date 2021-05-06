@@ -1,6 +1,6 @@
 # Covid-Tweets-Analysis-Dashboard
 
-![image](https://socialify.git.ci/kaustubhgupta/Covid-Tweets-Analysis-Dashboard/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
 
 This was the analysis from my side. I have tried to analyze every feature present in the dataset that can give meaningful insight. Here are some of the concluding points which can be inferred from the charts:
 - Mondays and Fridays were the most stressful days as there was less activity as compared to other days meaning that even if the work was done via homes, the working population was round the clock. This can be proved by the fact that the maximum of tweets was made on Saturdays!
